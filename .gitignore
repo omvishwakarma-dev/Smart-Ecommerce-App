@@ -1,0 +1,10 @@
+node_modules/
+venv/
+myenv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.db
+dump.rdb
+celerybeat-schedule
